@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solomonsolomonsolomon
-- 👀 I’m interested in backend development
-- 🌱 I’m currently working with express
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently working with the MERN stack
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me ...
 
