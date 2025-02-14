@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Solomon Emmanuel
 - 👀 I’m a Software engineer
-- 🌱 I’m work primarily with Typescript python and Rust
+- 🌱 I work primarily with Typescript python and Rust
 - 💞️ I’m looking to collaborate with other developers
 - 📫 Reach out to collaborate at X: @soltsx  email: emmanuel.solomon.04292003@gmail.com  
 
