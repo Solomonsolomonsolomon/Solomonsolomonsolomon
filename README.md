@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Solomonsolomonsolomon
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently working with the MERN stack
+- 👋 Hi, I’m Solomon Emmanuel
+- 👀 I’m a Software engineer
+- 🌱 I’m work primarily with Typescript python and Rust
 - 💞️ I’m looking to collaborate with other developers
-- 📫 How to reach me ...
+- 📫 Reach out to collaborate at X: @soltsx  email: emmanuel.solomon.04292003@gmail.com  
 
 <!---
 Solomonsolomonsolomon/Solomonsolomonsolomon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
